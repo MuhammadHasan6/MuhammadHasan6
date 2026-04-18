@@ -15,7 +15,6 @@ name        : Muhammad Hasan
 location    : Karachi, Pakistan
 university  : NED University of Engineering & Technology
 degree      : Computer & Information Systems Engineering
-year        : 1st Year (Class of '28)
 role        : Freelance Web Developer
 status      : Open to Projects & Collaborations
 
