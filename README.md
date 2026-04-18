@@ -1,27 +1,80 @@
-# 💫 About Me:
-I’m currently pursuing Computer & Information Systems Engineering at NED University, where I’m diving deep into the world of programming, system design, AI, and emerging technologies.<br><br>With a passion for technology and problem-solving, I’m building a strong foundation in software development, cybersecurity, data structures, and machine learning. I aim to create solutions that are not only efficient but meaningful — bridging the gap between real-world challenges and digital innovation.<br><br>✨ What Drives Me?<br><br>🔹Curiosity for how systems work and how to make them better<br><br>🔹A vision to contribute to impactful tech products<br><br>🔹Dedication to continuous learning and growth<br><br>This is just the beginning — I’m excited to grow as an engineer and explore internships, collaborations, and opportunities that shape the future
+<div align="center">
 
+```
+╔══════════════════════════════════════════════════════╗
+║           MUHAMMAD HASAN — WEB DEVELOPER             ║
+╚══════════════════════════════════════════════════════╝
+```
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Muhammad Hasan) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@muhammad hasan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammadhasan.work81@gmail.com) 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=CISE+%40+NED+University;Freelance+Web+Developer;Building+things+that+matter.)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=MuhammadHasan6&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=MuhammadHasan6&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MuhammadHasan6&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MuhammadHasan6&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MuhammadHasan6&limit=5&theme=default&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=MuhammadHasan6&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### `> whoami`
+
+```yaml
+name       : Muhammad Hasan
+degree     : Computer & Information Systems Engineering
+university : NED University of Engineering & Technology, Karachi
+year       : 1st Year
+role       : Freelance Web Developer
+status     : Open to Projects
+```
+
+---
+
+### `> tech_stack`
+
+![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C++](https://img.shields.io/badge/C++-0d0d0d?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![WordPress](https://img.shields.io/badge/WordPress-0d0d0d?style=for-the-badge&logo=wordpress&logoColor=21759B)
+![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=F05032)
+
+---
+
+### `> projects`
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [Rafay Power Solutions](https://rafay-power.com.pk) | Full company website rebuild with SEO & animations | HTML · CSS · JS |
+| Library Management System | C++ OOP project with HTTP backend | C++ · cpp-httplib |
+| Freelance Portfolio | Personal dev portfolio | HTML · CSS · JS |
+
+---
+
+### `> stats`
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasan-3456&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-3456&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=A78BFA&text_color=ffffff)
+
+</div>
+
+---
+
+### `> contact`
+
+```
+📧  hsweb91@gmail.com
+📱  +92 334 4073101  (WhatsApp)
+🌐  hasan-3456.github.io/Profile
+📍  Karachi, Pakistan
+```
+
+---
+
+<div align="center">
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hasan-3456.hasan-3456&left_color=0d0d0d&right_color=7c3aed)
+
+```
+/* always learning. always building. */
+```
+
+</div>
