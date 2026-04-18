@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=6d28d9&height=200&section=header&text=Muhammad%20Hasan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20%26%20Information%20Systems%20Engineer%20%7C%20Freelance%20Web%20Developer&descAlignY=55&descSize=16)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6d28d9&height=200&section=header&text=Muhammad%20Hasan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20%26%20Information%20Systems%20Engineer%20%7C%20Freelance%20Web%20Developer&descAlignY=55&descSize=16" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+the+web%2C+one+pixel+at+a+time.;CISE+%40+NED+University%2C+Karachi.;Turning+ideas+into+real+products.;Always+learning.+Always+shipping.)](https://git.io/typing-svg)
 
@@ -111,11 +111,19 @@ philosophy  : "Ship it. Improve it. Repeat."
 
 <div align="center">
 
-![Snake](https://raw.githubusercontent.com/MuhammadHasan6/MuhammadHasan6/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/MuhammadHasan6/MuhammadHasan6/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 
 </div>
 
 ---
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=MuhammadHasan6&color=6d28d9&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6d28d9&height=100&section=footer" width="100%"/>
+
+</div>
 
 <div align="center">
 
