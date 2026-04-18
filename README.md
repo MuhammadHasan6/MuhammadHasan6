@@ -124,11 +124,3 @@ philosophy  : "Ship it. Improve it. Repeat."
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6d28d9&height=100&section=footer" width="100%"/>
 
 </div>
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=MuhammadHasan6&color=6d28d9&style=for-the-badge&label=PROFILE+VIEWS)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=6d28d9&height=100&section=footer)
-
-</div>
