@@ -1,150 +1,167 @@
 <div align="center">
+<br>
 
-```
-██╗  ██╗ █████╗ ███████╗ █████╗ ███╗  ██╗     ██████╗ ███████╗
-██║  ██║██╔══██╗██╔════╝██╔══██╗████╗ ██║    ██╔═══██╗██╔════╝
-███████║███████║███████╗███████║██╔██╗██║    ██║   ██║███████╗
-██╔══██║██╔══██║╚════██║██╔══██║██║╚████║    ██║   ██║╚════██║
-██║  ██║██║  ██║███████║██║  ██║██║ ╚███║    ╚██████╔╝███████║
-╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝     ╚═════╝ ╚══════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0a0a0a,111111,0a0a0a&height=280&section=header&text=Muhammad%20Hasan&fontSize=62&fontColor=c9a96e&fontAlignY=55&desc=Freelance%20Web%20Developer%20%E2%80%A2%20Karachi%2C%20Pakistan&descColor=555555&descSize=14&descAlignY=72&animation=fadeIn" width="100%"/>
 
 </div>
 
+<div align="center">
+<br>
+
+*est. 2004 &nbsp;—&nbsp; NED University of Engineering & Technology*
+
+</div>
+
+<br>
+
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║  HASAN/OS v2.0.26  ·  NED University  ·  Karachi, Pakistan       ║
-║  Kernel: Developer-5.0  ·  Uptime: 20 years, still learning      ║
-╚══════════════════════════════════════════════════════════════════╝
+                                                            ┐
+  "The details are not the details.
+   They make the design."
+
+                                          — Charles Eames  ┘
 ```
 
----
+<br>
 
-```bash
-root@hasan:~$ cat /etc/identity
-```
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### ◈ &nbsp; Identity
 
 ```yaml
 name        : Muhammad Hasan
+location    : Karachi, Pakistan
+university  : NED — CISE
 role        : Freelance Web Developer
-university  : NED University of Engineering & Technology
-degree      : Computer & Information Systems Engineering
-location    : Karachi, Pakistan  [PKT UTC+5]
-status      : ● OPEN TO PROJECTS & COLLABORATIONS
-
-boot_sequence:
-  [OK] Loaded: OOP · Data Structures · Systems Design
-  [OK] Loaded: Client projects · Freelance workflow
-  [OK] Loaded: AI research · Cybersecurity interest
-  [!!] Warning: Coffee levels CRITICAL
-
+status      : open to work
 philosophy  : "Ship it. Improve it. Repeat."
 ```
 
----
+</td>
+<td width="50%" valign="top">
 
-```bash
-root@hasan:~$ ./skills --verbose
+### ◈ &nbsp; Currently
+
+```yaml
+studying    :
+  - OOP & Data Structures
+  - Systems Design
+  - Cybersecurity & AI
+
+building    :
+  - Client websites
+  - Freelance projects
+  - Side experiments
 ```
 
-```
-SKILL MATRIX ──────────────────────────────────────────────────────
+</td>
+</tr>
+</table>
 
-  HTML / CSS      ████████████████████████░░░░  92%
-  JavaScript      ████████████████████░░░░░░░░  85%
-  WordPress       ████████████████████████░░░░  88%
-  GSAP / Anim     ████████████████████░░░░░░░░  80%
-  Python / Flask  ██████████████████░░░░░░░░░░  72%
-  C / C++         █████████████████░░░░░░░░░░░  68%
-
-TOOLS DETECTED:
-  [ Git ] [ GSAP ] [ Flask ] [ Photoshop ] [ Canva ] [ cpp-httplib ]
-
-STACK: HTML5 · CSS3 · JavaScript · C · C++ · Python · WordPress
-```
-
----
-
-```bash
-root@hasan:~$ ls -la /projects/
-```
-
-```
-DEPLOYED PROJECTS ─────────────────────────────────────────────────
-
-  ⚡ rafay-power.com.pk                                    [● LIVE]
-     Full company website · dark theme · SEO · GSAP animations
-     Stack: HTML · CSS · JavaScript · GSAP
-
-  📚 LibraryOS                                           [● LOCAL]
-     OOP-based LMS · HTTP backend · full frontend UI
-     Stack: C++ · cpp-httplib · HTML / CSS / JS
-
-  🌐 dev-portfolio                                         [● LIVE]
-     Personal portfolio · typed animation · project showcase
-     Stack: HTML · CSS · JavaScript
-```
+<br>
 
 ---
 
-```bash
-root@hasan:~$ neofetch
-```
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammadHasan6&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=00884a&border_color=00ff41" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=MuhammadHasan6&theme=chartreuse-dark&hide_border=true&background=000000&ring=00ff41&fire=ff6b35&currStreakLabel=00ff41&sideLabels=00884a" width="49%"/>
+### ◈ &nbsp; Craft
+
+<br>
+
+![HTML5](https://img.shields.io/badge/HTML5-c9a96e?style=for-the-badge&logo=html5&logoColor=0a0a0a&labelColor=0a0a0a)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-c9a96e?style=for-the-badge&logo=css3&logoColor=0a0a0a&labelColor=0a0a0a)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-c9a96e?style=for-the-badge&logo=javascript&logoColor=0a0a0a&labelColor=0a0a0a)&nbsp;
+![GSAP](https://img.shields.io/badge/GSAP-c9a96e?style=for-the-badge&logo=greensock&logoColor=0a0a0a&labelColor=0a0a0a)
+
+![Python](https://img.shields.io/badge/Python-c9a96e?style=for-the-badge&logo=python&logoColor=0a0a0a&labelColor=0a0a0a)&nbsp;
+![Flask](https://img.shields.io/badge/Flask-c9a96e?style=for-the-badge&logo=flask&logoColor=0a0a0a&labelColor=0a0a0a)&nbsp;
+![C++](https://img.shields.io/badge/C++-c9a96e?style=for-the-badge&logo=cplusplus&logoColor=0a0a0a&labelColor=0a0a0a)&nbsp;
+![WordPress](https://img.shields.io/badge/WordPress-c9a96e?style=for-the-badge&logo=wordpress&logoColor=0a0a0a&labelColor=0a0a0a)
+
+![Git](https://img.shields.io/badge/Git-c9a96e?style=for-the-badge&logo=git&logoColor=0a0a0a&labelColor=0a0a0a)&nbsp;
+![Photoshop](https://img.shields.io/badge/Photoshop-c9a96e?style=for-the-badge&logo=adobephotoshop&logoColor=0a0a0a&labelColor=0a0a0a)&nbsp;
+![Canva](https://img.shields.io/badge/Canva-c9a96e?style=for-the-badge&logo=canva&logoColor=0a0a0a&labelColor=0a0a0a)
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHasan6&theme=chartreuse-dark&hide_border=true&layout=compact&bg_color=000000&title_color=00ff41&text_color=00884a"/>
-
-</div>
+<br>
 
 ---
 
-```bash
-root@hasan:~$ ping hasan --contact
-```
+<br>
 
-```
-PING hasan.dev: 56 bytes of data
+### ◈ &nbsp; Selected Work
 
-  64 bytes from linkedin.com/in/MuhammadHasan    time=12ms  ● ONLINE
-  64 bytes from hasan-3456.github.io/Profile      time=8ms   ● ONLINE
-  64 bytes from hsweb91@gmail.com                 time=1ms   ● ONLINE
-  64 bytes from wa.me/923344073101                time=0ms   ● INSTANT
-```
+<br>
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="4%" align="center">⚡</td>
+<td width="28%"><strong><a href="https://rafay-power.com.pk">Rafay Power Solutions</a></strong></td>
+<td width="44%">Full company website — dark theme, SEO optimized, cinematic scroll animations</td>
+<td width="24%" align="right"><code>HTML · CSS · JS · GSAP</code></td>
+</tr>
+<tr>
+<td align="center">📚</td>
+<td><strong>LibraryOS</strong></td>
+<td>OOP-based Library Management System with HTTP backend and full frontend UI</td>
+<td align="right"><code>C++ · cpp-httplib · HTML/CSS/JS</code></td>
+</tr>
+<tr>
+<td align="center">🌐</td>
+<td><strong><a href="https://hasan-3456.github.io/Profile">Dev Portfolio</a></strong></td>
+<td>Personal portfolio — typed animation, smooth transitions, project showcase</td>
+<td align="right"><code>HTML · CSS · JS</code></td>
+</tr>
+</table>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300ff41.svg?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/MuhammadHasan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2300ff41.svg?style=for-the-badge&logo=firefox&logoColor=black)](https://hasan-3456.github.io/Profile)
-[![Email](https://img.shields.io/badge/Gmail-%2300ff41?style=for-the-badge&logo=gmail&logoColor=black)](mailto:hsweb91@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2300ff41?style=for-the-badge&logo=whatsapp&logoColor=black)](https://wa.me/923344073101)
-
-</div>
-
----
-
-```bash
-root@hasan:~$ cat /var/log/trophies
-```
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=MuhammadHasan6&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)
-
-</div>
+<br>
 
 ---
 
-```bash
-root@hasan:~$ watch --snake /contributions
-```
+<br>
+
+<div align="center">
+
+### ◈ &nbsp; Numbers
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=MuhammadHasan6&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=c9a96e&icon_color=c9a96e&text_color=555555&include_all_commits=true" height="160"/>
+&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com/?user=MuhammadHasan6&hide_border=true&background=0a0a0a&ring=c9a96e&fire=c9a96e&currStreakLabel=c9a96e&sideLabels=555555&dates=333333&currStreakNum=f5f0e8&sideNums=f5f0e8" height="160"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHasan6&hide_border=true&layout=compact&bg_color=0a0a0a&title_color=c9a96e&text_color=555555"/>
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+### ◈ &nbsp; Trophies
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=MuhammadHasan6&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+
+</div>
+
+<br>
+
+---
+
+<br>
 
 <div align="center">
 
@@ -152,17 +169,29 @@ root@hasan:~$ watch --snake /contributions
 
 </div>
 
+<br>
+
 ---
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  [ SESSION ACTIVE ]  HASAN/OS  ·  All systems operational        ║
-║  Type: 'git clone hasan' to collaborate                          ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<br>
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=MuhammadHasan6&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
+### ◈ &nbsp; Contact
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=c9a96e)](https://linkedin.com/in/MuhammadHasan)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=firefox&logoColor=c9a96e)](https://hasan-3456.github.io/Profile)&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=c9a96e)](mailto:hsweb91@gmail.com)&nbsp;
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-0a0a0a?style=for-the-badge&logo=whatsapp&logoColor=c9a96e)](https://wa.me/923344073101)
+
+<br>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=MuhammadHasan6&color=c9a96e&style=flat-square&label=profile+views)
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a,111111&height=80&section=footer" width="100%"/>
 
 </div>
