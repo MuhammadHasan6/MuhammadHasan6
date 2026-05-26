@@ -1,18 +1,22 @@
 <div align="center">
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=060810,0d1525,060810&height=300&section=header&text=Muhammad%20Hasan&fontSize=64&fontColor=00b4ff&fontAlignY=55&desc=Freelance%20Web%20Developer%20%E2%80%A2%20Karachi%2C%20Pakistan&descColor=1a3a55&descSize=14&descAlignY=73&animation=fadeIn" width="100%"/>
+<!-- CINEMATIC HEADER — typewriter reveal, no bubble -->
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=72&duration=2200&pause=99999&color=00B4FF&center=true&vCenter=true&width=900&height=110&lines=Muhammad+Hasan" alt="Muhammad Hasan"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Tenor+Sans&size=13&duration=1800&pause=99999&color=1A3A55&center=true&vCenter=true&width=600&height=28&lines=Freelance+Web+Developer+%E2%80%A2+Karachi%2C+Pakistan" alt="subtitle"/>
 
 </div>
 
 <div align="center">
-<br>
+
+![line](https://img.shields.io/badge/──────────────────────────────────────────────────────────-060810?style=flat-square)
 
 `est. 2004` &nbsp;—&nbsp; *NED University of Engineering & Technology*
 
-<br>
+![status](https://img.shields.io/badge/●%20STATUS-OPEN%20TO%20WORK-00b4ff?style=flat-square&labelColor=060810)
 
-![](https://img.shields.io/badge/◈%20STATUS-OPEN%20TO%20WORK-00b4ff?style=flat-square&labelColor=060810&color=060810&logoColor=00b4ff)
+![line](https://img.shields.io/badge/──────────────────────────────────────────────────────────-060810?style=flat-square)
 
 </div>
 
@@ -139,13 +143,13 @@ building    :
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammadHasan6&show_icons=true&hide_border=true&bg_color=060810&title_color=00b4ff&icon_color=00b4ff&text_color=1a3a55&include_all_commits=true&ring_color=00b4ff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MuhammadHasan6&show_icons=true&hide_border=true&bg_color=060810&title_color=00b4ff&icon_color=00b4ff&text_color=1a3a55&include_all_commits=true&count_private=true&theme=default" height="165"/>
 &nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com/?user=MuhammadHasan6&hide_border=true&background=060810&ring=00b4ff&fire=00b4ff&currStreakLabel=00b4ff&sideLabels=1a3a55&dates=0d1f30&currStreakNum=e8f4ff&sideNums=e8f4ff" height="165"/>
+<img src="https://streak-stats.demolab.com?user=MuhammadHasan6&hide_border=true&background=060810&ring=00b4ff&fire=00b4ff&currStreakLabel=00b4ff&sideLabels=1a3a55&dates=0d1f30&currStreakNum=e8f4ff&sideNums=e8f4ff" height="165"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHasan6&hide_border=true&layout=compact&bg_color=060810&title_color=00b4ff&text_color=1a3a55&langs_count=8"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHasan6&hide_border=true&layout=compact&bg_color=060810&title_color=00b4ff&text_color=1a3a55&langs_count=8&theme=default"/>
 
 </div>
 
@@ -161,23 +165,7 @@ building    :
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadHasan6&bg_color=060810&color=00b4ff&line=00b4ff&point=e8f4ff&area=true&area_color=00b4ff&hide_border=true" width="100%"/>
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-### ◈ &nbsp; Trophies
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=MuhammadHasan6&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadHasan6&bg_color=060810&color=00b4ff&line=00b4ff&point=e8f4ff&area=true&area_color=00b4ff&hide_border=true&custom_title=Muhammad%20Hasan's%20Contribution%20Graph" width="100%"/>
 
 </div>
 
@@ -216,6 +204,6 @@ building    :
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=060810,0d1525&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=060810,0a1520&height=80&section=footer" width="100%"/>
 
 </div>
