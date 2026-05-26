@@ -12,7 +12,7 @@
 
 ![line](https://img.shields.io/badge/──────────────────────────────────────────────────────────-060810?style=flat-square)
 
-`est. 2004` &nbsp;—&nbsp; *NED University of Engineering & Technology*
+`est. 2025` &nbsp;—&nbsp; *NED University of Engineering & Technology*
 
 ![status](https://img.shields.io/badge/●%20STATUS-OPEN%20TO%20WORK-00b4ff?style=flat-square&labelColor=060810)
 
