@@ -23,14 +23,55 @@
     <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="40"/>
     </filter>
+
+    <style>
+      .float {
+        animation: float 5s ease-in-out infinite;
+      }
+
+      .pulse {
+        animation: pulse 4s ease-in-out infinite;
+      }
+
+      .typing {
+        overflow: hidden;
+        white-space: nowrap;
+        animation: typing 5s steps(30,end) infinite;
+      }
+
+      .dot {
+        animation: blink 2s infinite;
+      }
+
+      @keyframes float {
+        0%,100% { transform: translateY(0px); }
+        50% { transform: translateY(-10px); }
+      }
+
+      @keyframes pulse {
+        0%,100% { opacity: 0.4; }
+        50% { opacity: 0.8; }
+      }
+
+      @keyframes typing {
+        0% { opacity: 0.7; }
+        50% { opacity: 1; }
+        100% { opacity: 0.7; }
+      }
+
+      @keyframes blink {
+        0%,100% { opacity: 1; }
+        50% { opacity: 0.2; }
+      }
+    </style>
   </defs>
 
   <!-- Background -->
   <rect width="1280" height="400" rx="24" fill="url(#bg)"/>
 
-  <!-- Ambient glow -->
-  <ellipse cx="240" cy="120" rx="220" ry="180" fill="url(#glow1)" filter="url(#blur)"/>
-  <ellipse cx="1040" cy="280" rx="240" ry="180" fill="url(#glow2)" filter="url(#blur)"/>
+  <!-- Animated glow -->
+  <ellipse class="pulse" cx="240" cy="120" rx="220" ry="180" fill="url(#glow1)" filter="url(#blur)"/>
+  <ellipse class="pulse" cx="1040" cy="280" rx="240" ry="180" fill="url(#glow2)" filter="url(#blur)"/>
 
   <!-- Grid -->
   <g opacity="0.08">
@@ -48,19 +89,25 @@
     <path d="M1120 0V400" stroke="white"/>
   </g>
 
+  <!-- Floating particles -->
+  <circle class="dot" cx="150" cy="90" r="3" fill="#06B6D4"/>
+  <circle class="dot" cx="420" cy="60" r="2" fill="#7C3AED"/>
+  <circle class="dot" cx="980" cy="110" r="3" fill="#06B6D4"/>
+  <circle class="dot" cx="1130" cy="310" r="2" fill="#7C3AED"/>
+
   <!-- Decorative shape -->
   <path d="M860 90C940 70 1040 120 1070 210C1100 300 1030 350 920 330C810 310 730 240 740 170C750 120 790 100 860 90Z"
-        fill="url(#accent)" opacity="0.14"/>
+        fill="url(#accent)" opacity="0.14" class="float"/>
 
   <!-- Code card -->
-  <g>
+  <g class="float">
     <rect x="760" y="110" width="360" height="180" rx="22" fill="#0B1220" stroke="rgba(255,255,255,0.08)"/>
 
     <circle cx="792" cy="142" r="6" fill="#EF4444"/>
     <circle cx="816" cy="142" r="6" fill="#F59E0B"/>
     <circle cx="840" cy="142" r="6" fill="#10B981"/>
 
-    <text x="790" y="190" fill="#38BDF8" font-size="20" font-family="'Fira Code', monospace">
+    <text x="790" y="190" fill="#38BDF8" font-size="20" font-family="'Fira Code', monospace" class="typing">
       const developer = {
     </text>
 
@@ -93,10 +140,10 @@
     Computer Engineering Student • Developer • Designer
   </text>
 
-  <!-- Accent line -->
-  <rect x="120" y="245" width="220" height="5" rx="999" fill="url(#accent)"/>
+  <!-- Animated accent line -->
+  <rect class="pulse" x="120" y="245" width="220" height="5" rx="999" fill="url(#accent)"/>
 
-  <!-- Small tags -->
+  <!-- Skill tags -->
   <g>
     <rect x="120" y="285" width="120" height="40" rx="999" fill="#111827" stroke="#1E293B"/>
     <text x="155" y="311" fill="#CBD5E1" font-size="16" font-family="Inter">Open Source</text>
@@ -104,7 +151,7 @@
     <rect x="255" y="285" width="110" height="40" rx="999" fill="#111827" stroke="#1E293B"/>
     <text x="292" y="311" fill="#CBD5E1" font-size="16" font-family="Inter">UI/UX</text>
 
-    <rect x="380" y="285" width="120" height="40" rx="999" fill="#111827" stroke="#1E293B"/>
-    <text x="414" y="311" fill="#CBD5E1" font-size="16" font-family="Inter">Problem Solving</text>
+    <rect x="380" y="285" width="140" height="40" rx="999" fill="#111827" stroke="#1E293B"/>
+    <text x="410" y="311" fill="#CBD5E1" font-size="16" font-family="Inter">Problem Solving</text>
   </g>
 </svg>
