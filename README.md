@@ -105,11 +105,9 @@ status      : OPEN TO PROJECTS & COLLABORATIONS
 
 ## `> TROPHIES/`
 
-<div align="center">
-
-<img width="84%" src="https://github-profile-trophy.vercel.app/?username=MuhammadHasan6&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" />
-
-</div>
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=MuhammadHasan6&theme=darkhub&no-frame=true&margin-w=10" />
+</p>
 
 ## `> CONTRIBUTION_GRID/`
 
