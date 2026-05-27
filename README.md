@@ -107,7 +107,7 @@ status      : OPEN TO PROJECTS & COLLABORATIONS
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadHasan6&theme=github_dark" width="100%" />
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="420"/>
 
 </div>
 
