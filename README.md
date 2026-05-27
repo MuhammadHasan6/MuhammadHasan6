@@ -15,7 +15,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Building+real+products+from+a+laptop+in+Karachi.;First-year+CISE+%40+NED+University.;Freelancing+my+way+to+financial+freedom.;Ship+it.+Improve+it.+Repeat.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=WELCOME+TO+MY+PROFILE;Building+real+products;First-year+CISE+%40+NED+University.;Freelancing.;Ship+it.+Improve+it.+Repeat.)
 
 </div>
 
@@ -44,12 +44,12 @@ status      : OPEN TO PROJECTS & COLLABORATIONS
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────┐
-│  ID       NAME                       STATUS       STACK                  │
+│  ID       NAME                       STATUS      STACK                   │
 ├──────────────────────────────────────────────────────────────────────────┤
-│  PRJ-001  Rafay Power Solutions       ● LIVE       HTML · CSS · JS · GSAP │
-│  PRJ-002  ARIA — AI Agent             ◈ IN DEV     Python · PyQt6 · Ollama│
-│  PRJ-003  Library Management System   ● COMPLETE   C++ · httplib · HTML/JS│
-│  PRJ-004  Moto GPS Tracker            ◈ BUILDING   Arduino · SIM800L · GPS│
+│  PRJ-001  Rafay Power Solutions      ● LIVE      HTML · CSS · JS · GSAP  │
+│  PRJ-002  ARIA — AI Agent            ◈ IN DEV    Python · PyQt6 ·Ollama  │
+│  PRJ-003  Library Management System  ● COMPLETE   C++ · httplib ·HTML/JS  │
+│  PRJ-004  Moto GPS Tracker           ◈ BUILDING  Arduino · SIM800L · GPS │
 └──────────────────────────────────────────────────────────────────────────┘
 ```
 
