@@ -8,8 +8,8 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║  HXSN_OS  ·  BOOT SEQUENCE COMPLETE  ·  ALL SYSTEMS NOMINAL         ║
-║  OPERATOR: Muhammad Hasan  ·  CLEARANCE: FULL  ·  STATUS: ONLINE    ║
+║  HXSN_OS  ·  BOOT SEQUENCE COMPLETE  ·  ALL SYSTEMS NOMINAL          ║
+║  OPERATOR: Muhammad Hasan  ·  CLEARANCE: FULL  ·  STATUS: ONLINE     ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -106,7 +106,7 @@ status      : OPEN TO PROJECTS & COLLABORATIONS
 
 <div align="center">
 
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="420"/>
+<img src="https://media.tenor.com/bCfpwMjfAi0AAAAd/cat-typing.gif" width="250"/>
 
 </div>
 
