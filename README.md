@@ -103,7 +103,6 @@ status      : OPEN TO PROJECTS & COLLABORATIONS
 
 </div>
 
-## `> TROPHIES/`
 
 <div align="center">
 
