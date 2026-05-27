@@ -25,17 +25,13 @@
 
 ```yaml
 operator    : Muhammad Hasan
-alias       : MH-6  /  hasan-3456
-location    : Karachi, Pakistan  [24.8607°N  67.0011°E  PKT UTC+5]
+location    : Karachi, Pakistan 
 institution : NED University of Engineering & Technology
-degree      : Computer & Information Systems Engineering · Section C
-role        : Freelance Web Developer
-mission     : Financial independence — no 9-to-5 in the roadmap
+degree      : Computer & Information Systems Engineering 
 
 currently_active:
   - OOP / Data Structures / Systems Design
   - Building & shipping client websites
-  - Cold-pitching Karachi businesses
   - Exploring AI, IoT & Automation
 
 directive   : "Ship it. Improve it. Repeat."
@@ -141,8 +137,7 @@ status      : OPEN TO PROJECTS & COLLABORATIONS
 ├──────────────────────────────────────────────────────────────┤
 │  LinkedIn       /in/MuhammadHasan             ● ACTIVE       │
 │  Portfolio      hasan-3456.github.io/Profile  ● LIVE         │
-│  Gmail          hsweb91@gmail.com             ● MONITORED    │
-│  WhatsApp       +92 334 407 3101              ● OPEN         │
+│  Gmail          hsweb91@gmail.com             ● MONITORED    │       
 └──────────────────────────────────────────────────────────────┘
 ```
 
@@ -160,9 +155,7 @@ status      : OPEN TO PROJECTS & COLLABORATIONS
 <div align="center">
 
 ```
-[ HXSN_OS · ALL SYSTEMS NOMINAL · © 2025 MUHAMMAD HASAN ]
-[ MISSION: FINANCIAL INDEPENDENCE · STATUS: IN PROGRESS  ]
-[ 9-TO-5 MODULE: DISABLED BY OPERATOR                    ]
+[ · ALL SYSTEMS NOMINAL · © 2025 MUHAMMAD HASAN ]                    ]
 ```
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=MuhammadHasan6&color=00ff88&style=flat-square&label=PROFILE+VIEWS)
