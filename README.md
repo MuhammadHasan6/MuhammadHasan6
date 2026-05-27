@@ -107,7 +107,7 @@ status      : OPEN TO PROJECTS & COLLABORATIONS
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=500&lines=SYSTEM+ONLINE;BUILDING+REAL+PROJECTS;AI+%2B+SYSTEMS+%2B+AUTOMATION;SHIP+IT.+IMPROVE+IT.+REPEAT." />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadHasan6&theme=github_dark" width="100%" />
 
 </div>
 
