@@ -1,0 +1,263 @@
+<svg width="900" height="320" viewBox="0 0 900 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .mono { font-family: 'Courier New', Courier, monospace; }
+      .orb  { font-family: 'Courier New', Courier, monospace; font-weight: 900; }
+    </style>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#0a0010"/>
+      <stop offset="40%"  stop-color="#0d0a2a"/>
+      <stop offset="75%"  stop-color="#0a1a2f"/>
+      <stop offset="100%" stop-color="#051520"/>
+    </linearGradient>
+    <radialGradient id="moonGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#fffbe6" stop-opacity="1"/>
+      <stop offset="30%"  stop-color="#ffe8a0" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#ff6600" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="horizonGlow" cx="50%" cy="100%" r="60%">
+      <stop offset="0%"   stop-color="#ff4400" stop-opacity="0.25"/>
+      <stop offset="50%"  stop-color="#8800ff" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="water" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#0a1520"/>
+      <stop offset="100%" stop-color="#040c10"/>
+    </linearGradient>
+    <linearGradient id="bldA" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#1a1030"/>
+      <stop offset="100%" stop-color="#0a0818"/>
+    </linearGradient>
+    <linearGradient id="bldB" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#120c28"/>
+      <stop offset="100%" stop-color="#080614"/>
+    </linearGradient>
+    <pattern id="scan" x="0" y="0" width="900" height="4" patternUnits="userSpaceOnUse">
+      <rect width="900" height="2" fill="black" opacity="0.05"/>
+      <rect y="2" width="900" height="2" fill="#00ff88" opacity="0.015"/>
+    </pattern>
+    <clipPath id="gc1"><rect x="0" y="125" width="900" height="20"/></clipPath>
+    <clipPath id="gc3"><rect x="0" y="155" width="900" height="25"/></clipPath>
+    <clipPath id="mainClip"><rect width="900" height="320"/></clipPath>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="textGlow" x="-10%" y="-40%" width="120%" height="180%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <g clip-path="url(#mainClip)">
+
+  <!-- SKY -->
+  <rect width="900" height="320" fill="url(#sky)"/>
+  <rect width="900" height="320" fill="url(#horizonGlow)"/>
+
+  <!-- STARS -->
+  <circle cx="60"  cy="18" r="0.8" fill="white" opacity="0.9"/>
+  <circle cx="120" cy="30" r="0.6" fill="white" opacity="0.8"/>
+  <circle cx="310" cy="25" r="0.7" fill="white" opacity="0.9"/>
+  <circle cx="420" cy="8"  r="0.9" fill="white" opacity="0.8"/>
+  <circle cx="500" cy="20" r="0.6" fill="white" opacity="0.7"/>
+  <circle cx="660" cy="30" r="0.7" fill="white" opacity="0.9"/>
+  <circle cx="820" cy="22" r="0.6" fill="white" opacity="0.8"/>
+  <circle cx="870" cy="8"  r="1"   fill="white" opacity="0.9"/>
+  <circle cx="140" cy="50" r="0.5" fill="#aaffcc" opacity="0.7"/>
+  <circle cx="280" cy="45" r="0.6" fill="#aaeeff" opacity="0.8"/>
+  <circle cx="460" cy="38" r="0.8" fill="white" opacity="0.7"/>
+  <circle cx="630" cy="55" r="0.5" fill="white" opacity="0.6"/>
+  <circle cx="780" cy="42" r="0.7" fill="#ffeecc" opacity="0.8"/>
+  <circle cx="90"  cy="65" r="0.5" fill="white" opacity="0.6"/>
+  <circle cx="350" cy="60" r="0.6" fill="white" opacity="0.7"/>
+  <circle cx="530" cy="52" r="0.7" fill="white" opacity="0.8"/>
+  <!-- Twinkling -->
+  <circle cx="200" cy="12" r="1" fill="white" opacity="0.9">
+    <animate attributeName="opacity" values="0.9;0.2;0.9" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="580" cy="14" r="1.1" fill="white" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;0.1;0.8" dur="2.3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="750" cy="10" r="0.8" fill="white" opacity="0.7">
+    <animate attributeName="opacity" values="0.7;0.3;0.7" dur="4s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- MOON -->
+  <circle cx="720" cy="72" r="55" fill="url(#moonGlow)" opacity="0.18"/>
+  <circle cx="720" cy="72" r="35" fill="url(#moonGlow)" opacity="0.25"/>
+  <circle cx="720" cy="72" r="26" fill="#ffe8a0" filter="url(#glow)"/>
+  <circle cx="712" cy="66" r="3.5" fill="#f0d080" opacity="0.5"/>
+  <circle cx="726" cy="78" r="2"   fill="#f0d080" opacity="0.4"/>
+  <circle cx="718" cy="80" r="1.5" fill="#f0d080" opacity="0.35"/>
+
+  <!-- MOUNTAINS -->
+  <path d="M0,190 Q80,130 160,150 Q220,120 290,140 Q360,105 430,135 Q510,115 580,138 Q650,108 720,130 Q790,110 860,128 L900,135 L900,210 L0,210 Z" fill="#0e0820" opacity="0.9"/>
+  <path d="M0,200 Q60,165 130,175 Q200,155 270,170 Q340,148 410,168 Q480,145 550,165 Q620,150 700,162 Q770,145 840,158 L900,162 L900,220 L0,220 Z" fill="#0b061a" opacity="0.95"/>
+
+  <!-- BUILDINGS LEFT -->
+  <rect x="0"   y="185" width="35" height="65" fill="url(#bldA)"/>
+  <rect x="40"  y="170" width="28" height="80" fill="url(#bldB)"/>
+  <rect x="72"  y="178" width="22" height="72" fill="url(#bldA)"/>
+  <rect x="98"  y="162" width="32" height="88" fill="url(#bldB)"/>
+  <rect x="134" y="172" width="24" height="78" fill="url(#bldA)"/>
+  <rect x="162" y="155" width="30" height="95" fill="url(#bldB)"/>
+  <!-- Windows left -->
+  <rect x="6"   y="198" width="5" height="4" fill="#ffcc44" opacity="0.5"/>
+  <rect x="14"  y="198" width="5" height="4" fill="#ffcc44" opacity="0.3"/>
+  <rect x="44"  y="182" width="4" height="3" fill="#ffcc44" opacity="0.6"/>
+  <rect x="51"  y="182" width="4" height="3" fill="#4499ff" opacity="0.4"/>
+  <rect x="44"  y="195" width="4" height="3" fill="#4499ff" opacity="0.5"/>
+  <rect x="102" y="172" width="5" height="4" fill="#ffcc44" opacity="0.5"/>
+  <rect x="112" y="172" width="5" height="4" fill="#4499ff" opacity="0.4"/>
+  <rect x="102" y="185" width="5" height="4" fill="#ffcc44" opacity="0.6"/>
+  <rect x="166" y="168" width="5" height="4" fill="#4499ff" opacity="0.5"/>
+  <rect x="175" y="168" width="5" height="4" fill="#ffcc44" opacity="0.6"/>
+  <rect x="166" y="180" width="5" height="4" fill="#ffcc44" opacity="0.4"/>
+  <!-- Antenna left -->
+  <line x1="177" y1="155" x2="177" y2="135" stroke="#1a1030" stroke-width="2"/>
+  <circle cx="177" cy="133" r="2.5" fill="#ff4444" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;0;0.8" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- CENTER TOWER -->
+  <rect x="390" y="148" width="40" height="102" fill="#100c22"/>
+  <rect x="400" y="136" width="20" height="14" fill="#0e0a1e"/>
+  <rect x="406" y="126" width="8"  height="12" fill="#0c0818"/>
+  <line x1="410" y1="126" x2="410" y2="105" stroke="#1a1030" stroke-width="2.5"/>
+  <circle cx="410" cy="103" r="3" fill="#ff2222" opacity="0.9">
+    <animate attributeName="opacity" values="0.9;0;0.9" dur="1.2s" repeatCount="indefinite"/>
+  </circle>
+  <rect x="395" y="158" width="6" height="5" fill="#ffffaa" opacity="0.6"/>
+  <rect x="418" y="158" width="6" height="5" fill="#ffffaa" opacity="0.4"/>
+  <rect x="395" y="172" width="6" height="5" fill="#4499ff" opacity="0.5"/>
+  <rect x="418" y="172" width="6" height="5" fill="#ffcc44" opacity="0.6"/>
+  <rect x="395" y="186" width="6" height="5" fill="#ffcc44" opacity="0.3"/>
+  <rect x="395" y="200" width="6" height="5" fill="#ffffaa" opacity="0.5"/>
+
+  <!-- BUILDINGS RIGHT -->
+  <rect x="700" y="168" width="35" height="82" fill="url(#bldB)"/>
+  <rect x="738" y="158" width="28" height="92" fill="url(#bldA)"/>
+  <rect x="770" y="172" width="32" height="78" fill="url(#bldB)"/>
+  <rect x="806" y="160" width="22" height="90" fill="url(#bldA)"/>
+  <rect x="832" y="175" width="30" height="75" fill="url(#bldB)"/>
+  <rect x="866" y="165" width="34" height="85" fill="url(#bldA)"/>
+  <!-- Windows right -->
+  <rect x="704" y="180" width="5" height="4" fill="#ffcc44" opacity="0.5"/>
+  <rect x="713" y="180" width="5" height="4" fill="#4499ff" opacity="0.4"/>
+  <rect x="742" y="170" width="4" height="3" fill="#4499ff" opacity="0.5"/>
+  <rect x="750" y="170" width="4" height="3" fill="#ffcc44" opacity="0.6"/>
+  <rect x="742" y="183" width="4" height="3" fill="#ffcc44" opacity="0.4"/>
+  <rect x="810" y="172" width="5" height="4" fill="#ffffaa" opacity="0.5"/>
+  <rect x="820" y="172" width="5" height="4" fill="#4499ff" opacity="0.4"/>
+  <rect x="810" y="185" width="5" height="4" fill="#ffcc44" opacity="0.6"/>
+  <rect x="836" y="185" width="5" height="4" fill="#4499ff" opacity="0.4"/>
+  <rect x="870" y="178" width="5" height="4" fill="#ffcc44" opacity="0.6"/>
+  <line x1="746" y1="158" x2="746" y2="138" stroke="#1a1030" stroke-width="2"/>
+  <circle cx="746" cy="136" r="2.5" fill="#ff4444" opacity="0.75">
+    <animate attributeName="opacity" values="0.75;0;0.75" dur="2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- HORIZON GLOW -->
+  <ellipse cx="450" cy="250" rx="420" ry="30" fill="#ff3300" opacity="0.06"/>
+  <ellipse cx="450" cy="250" rx="300" ry="20" fill="#cc00ff" opacity="0.05"/>
+
+  <!-- WATER -->
+  <rect x="0" y="250" width="900" height="70" fill="url(#water)"/>
+  <line x1="100" y1="260" x2="200" y2="260" stroke="#1a3040" stroke-width="0.5" opacity="0.5"/>
+  <line x1="300" y1="265" x2="450" y2="265" stroke="#1a3040" stroke-width="0.5" opacity="0.4"/>
+  <line x1="600" y1="258" x2="750" y2="258" stroke="#1a3040" stroke-width="0.5" opacity="0.5"/>
+  <line x1="50"  y1="275" x2="180" y2="275" stroke="#0d2030" stroke-width="0.5" opacity="0.4"/>
+  <ellipse cx="720" cy="262" rx="18" ry="3" fill="#ffe8a0" opacity="0.12"/>
+  <line x1="0" y1="250" x2="900" y2="250" stroke="#1a1030" stroke-width="1" opacity="0.8"/>
+
+  <!-- TREES LEFT -->
+  <g fill="#060412">
+    <polygon points="0,250 20,210 40,250"/>
+    <polygon points="10,250 35,200 60,250"/>
+    <polygon points="30,250 55,215 80,250"/>
+    <polygon points="55,250 75,220 95,250"/>
+    <polygon points="75,250 98,206 121,250"/>
+    <polygon points="105,250 125,217 145,250"/>
+    <polygon points="130,250 152,210 174,250"/>
+    <rect x="18"  y="240" width="4" height="10"/>
+    <rect x="33"  y="240" width="4" height="10"/>
+    <rect x="53"  y="241" width="4" height="9"/>
+    <rect x="73"  y="240" width="4" height="10"/>
+  </g>
+  <!-- TREES RIGHT -->
+  <g fill="#060412">
+    <polygon points="726,250 748,208 770,250"/>
+    <polygon points="750,250 775,198 800,250"/>
+    <polygon points="785,250 808,212 831,250"/>
+    <polygon points="815,250 836,220 857,250"/>
+    <polygon points="842,250 864,207 886,250"/>
+    <polygon points="868,250 890,215 912,250"/>
+    <rect x="746" y="240" width="4" height="10"/>
+    <rect x="773" y="240" width="4" height="10"/>
+    <rect x="806" y="241" width="4" height="9"/>
+    <rect x="834" y="240" width="4" height="10"/>
+  </g>
+
+  <!-- SCANLINES -->
+  <rect width="900" height="320" fill="url(#scan)"/>
+
+  <!-- HUD FRAME -->
+  <polyline points="0,30 0,0 30,0" fill="none" stroke="#00ff88" stroke-width="1.5"/>
+  <polyline points="870,0 900,0 900,30" fill="none" stroke="#00ff88" stroke-width="1.5"/>
+  <polyline points="0,290 0,320 30,320" fill="none" stroke="#00ff88" stroke-width="1.5"/>
+  <polyline points="870,320 900,320 900,290" fill="none" stroke="#00ff88" stroke-width="1.5"/>
+
+  <!-- TOP HUD BAR -->
+  <rect x="0" y="0" width="900" height="22" fill="#000000" opacity="0.6"/>
+  <text x="12" y="14" class="mono" font-size="9" fill="#005533" letter-spacing="2">HXSN_OS · V1.0</text>
+  <text x="450" y="14" class="mono" font-size="9" fill="#003322" letter-spacing="2" text-anchor="middle">KARACHI · PKT UTC+5 · MH-6</text>
+  <circle cx="882" cy="11" r="3" fill="#00ff88">
+    <animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="872" y="14" class="mono" font-size="8" fill="#005533" text-anchor="end" letter-spacing="1">ONLINE</text>
+
+  <!-- BOTTOM HUD BAR -->
+  <rect x="0" y="300" width="900" height="20" fill="#000000" opacity="0.6"/>
+  <text x="12" y="314" class="mono" font-size="8" fill="#003322" letter-spacing="1.5">[ OK ] ALL SYSTEMS NOMINAL  ·  [ WARN ] 9-TO-5: DISABLED BY OPERATOR</text>
+  <text x="888" y="314" class="mono" font-size="8" fill="#003322" letter-spacing="1" text-anchor="end">github.com/MuhammadHasan6</text>
+
+  <!-- MAIN TEXT: "Hi, I'm" small label -->
+  <text x="450" y="102" class="mono" font-size="11" fill="#00aa66" text-anchor="middle" letter-spacing="5" opacity="0.7">╔ IDENTITY CONFIRMED ╗</text>
+
+  <!-- Glitch ghost red -->
+  <text x="452" y="158" class="orb" font-size="52" fill="#ff0088" text-anchor="middle" letter-spacing="3" clip-path="url(#gc1)" opacity="0">
+    Hi, I'm Hasan
+    <animate attributeName="opacity" values="0;0;0;0.7;0;0;0;0.4;0;0" dur="7s" repeatCount="indefinite"/>
+  </text>
+  <!-- Glitch ghost cyan -->
+  <text x="447" y="158" class="orb" font-size="52" fill="#00ccff" text-anchor="middle" letter-spacing="3" clip-path="url(#gc3)" opacity="0">
+    Hi, I'm Hasan
+    <animate attributeName="opacity" values="0;0;0;0;0.5;0;0;0;0.3;0" dur="7s" repeatCount="indefinite"/>
+  </text>
+  <!-- MAIN NAME -->
+  <text x="450" y="158" class="orb" font-size="52" fill="#ffffff" text-anchor="middle" letter-spacing="3" filter="url(#textGlow)">Hi, I'm Hasan</text>
+
+  <!-- SUBTITLE -->
+  <text x="450" y="190" class="mono" font-size="13" fill="#00ff88" text-anchor="middle" letter-spacing="5" filter="url(#glow)">A Web Developer in the Making</text>
+
+  <!-- Deco line -->
+  <line x1="310" y1="200" x2="590" y2="200" stroke="#00ff88" stroke-width="0.5" opacity="0.25"/>
+  <circle cx="310" cy="200" r="2" fill="#00ff88" opacity="0.35"/>
+  <circle cx="590" cy="200" r="2" fill="#00ff88" opacity="0.35"/>
+
+  <!-- Cursor -->
+  <text x="607" y="190" class="mono" font-size="13" fill="#00ff88">&#9611;<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></text>
+
+  <!-- BADGES -->
+  <rect x="294" y="210" width="90" height="18" fill="none" stroke="#003322" stroke-width="0.8"/>
+  <text x="339" y="222" class="mono" font-size="8" fill="#005533" text-anchor="middle" letter-spacing="2">NED · CISE</text>
+
+  <rect x="392" y="210" width="116" height="18" fill="none" stroke="#00ff88" stroke-width="0.8"/>
+  <text x="450" y="222" class="mono" font-size="8" fill="#00ff88" text-anchor="middle" letter-spacing="2">OPEN TO WORK</text>
+
+  <rect x="516" y="210" width="90" height="18" fill="none" stroke="#003322" stroke-width="0.8"/>
+  <text x="561" y="222" class="mono" font-size="8" fill="#005533" text-anchor="middle" letter-spacing="2">KARACHI, PK</text>
+
+  </g>
+</svg>
