@@ -105,9 +105,9 @@ status      : OPEN TO PROJECTS & COLLABORATIONS
 
 ## `> TROPHIES/`
 
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=MuhammadHasan6&theme=darkhub&no-frame=true&margin-w=10" />
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
+</div>
 
 ## `> CONTRIBUTION_GRID/`
 
