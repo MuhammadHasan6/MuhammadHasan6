@@ -106,11 +106,9 @@ status      : OPEN TO PROJECTS & COLLABORATIONS
 ## `> TROPHIES/`
 
 <div align="center">
-  <img 
-    src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"
-    width="180"
-    style="border-radius:12px;"
-  />
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=500&lines=SYSTEM+ONLINE;BUILDING+REAL+PROJECTS;AI+%2B+SYSTEMS+%2B+AUTOMATION;SHIP+IT.+IMPROVE+IT.+REPEAT." />
+
 </div>
 
 ## `> CONTRIBUTION_GRID/`
