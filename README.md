@@ -155,7 +155,7 @@ status      : OPEN TO PROJECTS & COLLABORATIONS
 <div align="center">
 
 ```
-[ · ALL SYSTEMS NOMINAL · © 2025 MUHAMMAD HASAN ]                    ]
+[ · ALL SYSTEMS NOMINAL · © 2025 MUHAMMAD HASAN ]
 ```
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=MuhammadHasan6&color=00ff88&style=flat-square&label=PROFILE+VIEWS)
