@@ -1,209 +1,170 @@
 <div align="center">
-<br>
 
-<!-- CINEMATIC HEADER — typewriter reveal, no bubble -->
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=72&duration=2200&pause=99999&color=00B4FF&center=true&vCenter=true&width=900&height=110&lines=Muhammad+Hasan" alt="Muhammad Hasan"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Tenor+Sans&size=13&duration=1800&pause=99999&color=1A3A55&center=true&vCenter=true&width=600&height=28&lines=Freelance+Web+Developer+%E2%80%A2+Karachi%2C+Pakistan" alt="subtitle"/>
+![HXSN_OS Header](./header.svg)
 
 </div>
+
+---
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║  HXSN_OS  ·  BOOT SEQUENCE COMPLETE  ·  ALL SYSTEMS NOMINAL         ║
+║  OPERATOR: Muhammad Hasan  ·  CLEARANCE: FULL  ·  STATUS: ONLINE    ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
 <div align="center">
 
-![line](https://img.shields.io/badge/──────────────────────────────────────────────────────────-060810?style=flat-square)
-
-`est. 2025` &nbsp;—&nbsp; *NED University of Engineering & Technology*
-
-![status](https://img.shields.io/badge/●%20STATUS-OPEN%20TO%20WORK-00b4ff?style=flat-square&labelColor=060810)
-
-![line](https://img.shields.io/badge/──────────────────────────────────────────────────────────-060810?style=flat-square)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Building+real+products+from+a+laptop+in+Karachi.;First-year+CISE+%40+NED+University.;Freelancing+my+way+to+financial+freedom.;Ship+it.+Improve+it.+Repeat.)
 
 </div>
 
-<br>
+---
 
-```
-  ┌─────────────────────────────────────────────────────────────┐
-  │                                                             │
-  │   "The details are not the details.                         │
-  │    They make the design."                                   │
-  │                                                             │
-  │                                        — Charles Eames      │
-  └─────────────────────────────────────────────────────────────┘
-```
-
-<br>
-
-<table width="100%" border="0">
-<tr>
-<td width="50%" valign="top">
-
-### ◈ &nbsp; Identity
+## `> IDENTITY_MATRIX.yaml`
 
 ```yaml
-name        : Muhammad Hasan
-location    : Karachi, Pakistan
-university  : NED — CISE
+operator    : Muhammad Hasan
+alias       : MH-6  /  hasan-3456
+location    : Karachi, Pakistan  [24.8607°N  67.0011°E  PKT UTC+5]
+institution : NED University of Engineering & Technology
+degree      : Computer & Information Systems Engineering · Section C
 role        : Freelance Web Developer
-status      : ● open to work
-philosophy  : "Ship it. Improve it. Repeat."
+mission     : Financial independence — no 9-to-5 in the roadmap
+
+currently_active:
+  - OOP / Data Structures / Systems Design
+  - Building & shipping client websites
+  - Cold-pitching Karachi businesses
+  - Exploring AI, IoT & Automation
+
+directive   : "Ship it. Improve it. Repeat."
+status      : OPEN TO PROJECTS & COLLABORATIONS
 ```
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ &nbsp; Currently
-
-```yaml
-studying    :
-  - OOP & Data Structures
-  - Systems Design
-  - Cybersecurity & AI
-
-building    :
-  - Client websites
-  - Freelance projects
-  - Side experiments
-```
-
-</td>
-</tr>
-</table>
-
-<br>
 
 ---
 
-<br>
+## `> DEPLOYED_MISSIONS/`
+
+```
+┌──────────────────────────────────────────────────────────────────────────┐
+│  ID       NAME                       STATUS       STACK                  │
+├──────────────────────────────────────────────────────────────────────────┤
+│  PRJ-001  Rafay Power Solutions       ● LIVE       HTML · CSS · JS · GSAP │
+│  PRJ-002  ARIA — AI Agent             ◈ IN DEV     Python · PyQt6 · Ollama│
+│  PRJ-003  Library Management System   ● COMPLETE   C++ · httplib · HTML/JS│
+│  PRJ-004  Moto GPS Tracker            ◈ BUILDING   Arduino · SIM800L · GPS│
+└──────────────────────────────────────────────────────────────────────────┘
+```
+
+| | Project | Description | Link |
+|---|---------|-------------|------|
+| 🔌 | **[Rafay Power Solutions](https://rafay-power.com.pk)** | Full company website — dark theme, SEO optimized, GSAP animations. Solar & generator brand. | [↗ Live](https://rafay-power.com.pk) |
+| 🤖 | **ARIA — AI Agent** | Windows AI terminal. PyQt6 GUI · Ollama brain · Gmail API · Voice I/O · Browser automation | [↗ Repo](https://github.com/MuhammadHasan6) |
+| 📚 | **Library Management System** | OOP-based LMS with C++ HTTP backend and full web frontend UI | [↗ Repo](https://github.com/MuhammadHasan6) |
+| 📡 | **Moto GPS Tracker** | Arduino motorcycle security — SIM800L + NEO-6M real-time GPS tracking | [↗ Repo](https://github.com/MuhammadHasan6) |
+
+---
+
+## `> ARSENAL/`
 
 <div align="center">
 
-### ◈ &nbsp; Craft
+**`[ FRONTEND ]`**
 
-<br>
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=00ff88)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=00ff88)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=00ff88)
+![GSAP](https://img.shields.io/badge/GSAP-000000?style=flat-square&logo=greensock&logoColor=00ff88)
+![WordPress](https://img.shields.io/badge/WordPress-000000?style=flat-square&logo=wordpress&logoColor=00ff88)
 
-![HTML5](https://img.shields.io/badge/HTML5-00b4ff?style=for-the-badge&logo=html5&logoColor=060810&labelColor=060810)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-00b4ff?style=for-the-badge&logo=css3&logoColor=060810&labelColor=060810)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-00b4ff?style=for-the-badge&logo=javascript&logoColor=060810&labelColor=060810)&nbsp;
-![GSAP](https://img.shields.io/badge/GSAP-00b4ff?style=for-the-badge&logo=greensock&logoColor=060810&labelColor=060810)
+**`[ SYSTEMS ]`**
 
-![Python](https://img.shields.io/badge/Python-00b4ff?style=for-the-badge&logo=python&logoColor=060810&labelColor=060810)&nbsp;
-![Flask](https://img.shields.io/badge/Flask-00b4ff?style=for-the-badge&logo=flask&logoColor=060810&labelColor=060810)&nbsp;
-![C++](https://img.shields.io/badge/C++-00b4ff?style=for-the-badge&logo=cplusplus&logoColor=060810&labelColor=060810)&nbsp;
-![WordPress](https://img.shields.io/badge/WordPress-00b4ff?style=for-the-badge&logo=wordpress&logoColor=060810&labelColor=060810)
+![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=00ccff)
+![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=00ccff)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00ccff)
+![Arduino](https://img.shields.io/badge/Arduino-000000?style=flat-square&logo=arduino&logoColor=00ccff)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=00ccff)
 
-![Git](https://img.shields.io/badge/Git-00b4ff?style=for-the-badge&logo=git&logoColor=060810&labelColor=060810)&nbsp;
-![Photoshop](https://img.shields.io/badge/Photoshop-00b4ff?style=for-the-badge&logo=adobephotoshop&logoColor=060810&labelColor=060810)&nbsp;
-![Canva](https://img.shields.io/badge/Canva-00b4ff?style=for-the-badge&logo=canva&logoColor=060810&labelColor=060810)
+**`[ TOOLS ]`**
+
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=ff4444)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=ffffff)
+![Photoshop](https://img.shields.io/badge/Photoshop-000000?style=flat-square&logo=adobephotoshop&logoColor=31a8ff)
+![Canva](https://img.shields.io/badge/Canva-000000?style=flat-square&logo=canva&logoColor=00c4cc)
 
 </div>
 
-<br>
-
 ---
 
-<br>
-
-### ◈ &nbsp; Selected Work
-
-<br>
-
-<table width="100%" border="0">
-<tr>
-<td width="3%">⚡</td>
-<td width="26%"><strong><a href="https://rafay-power.com.pk">Rafay Power Solutions</a></strong></td>
-<td width="47%">Full company site — dark theme, SEO optimized, cinematic scroll animations</td>
-<td width="24%" align="right"><code>HTML · CSS · JS · GSAP</code></td>
-</tr>
-<tr><td colspan="4"><br></td></tr>
-<tr>
-<td>📚</td>
-<td><strong>LibraryOS</strong></td>
-<td>OOP-based LMS with HTTP backend and complete frontend UI</td>
-<td align="right"><code>C++ · cpp-httplib · HTML/CSS/JS</code></td>
-</tr>
-<tr><td colspan="4"><br></td></tr>
-<tr>
-<td>🌐</td>
-<td><strong><a href="https://hasan-3456.github.io/Profile">Dev Portfolio</a></strong></td>
-<td>Personal portfolio — typed animation, smooth transitions, project showcase</td>
-<td align="right"><code>HTML · CSS · JS</code></td>
-</tr>
-</table>
-
-<br>
-
----
-
-<br>
+## `> SYSTEM_DIAGNOSTICS/`
 
 <div align="center">
 
-### ◈ &nbsp; Numbers
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammadHasan6&show_icons=true&hide_border=true&bg_color=060810&title_color=00b4ff&icon_color=00b4ff&text_color=1a3a55&include_all_commits=true&count_private=true&theme=default" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MuhammadHasan6&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff88&icon_color=00ff88&text_color=005533" height="160"/>
 &nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=MuhammadHasan6&hide_border=true&background=060810&ring=00b4ff&fire=00b4ff&currStreakLabel=00b4ff&sideLabels=1a3a55&dates=0d1f30&currStreakNum=e8f4ff&sideNums=e8f4ff" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=MuhammadHasan6&theme=dark&hide_border=true&background=000000&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=005533&dates=003322&sideNums=00aa66" height="160"/>
 
-<br><br>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHasan6&hide_border=true&layout=compact&bg_color=060810&title_color=00b4ff&text_color=1a3a55&langs_count=8&theme=default"/>
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-### ◈ &nbsp; Activity
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadHasan6&bg_color=060810&color=00b4ff&line=00b4ff&point=e8f4ff&area=true&area_color=00b4ff&hide_border=true&custom_title=Muhammad%20Hasan's%20Contribution%20Graph" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHasan6&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff88&text_color=00aa66" height="130"/>
 
 </div>
 
-<br>
-
 ---
 
-<br>
+## `> TROPHIES/`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MuhammadHasan6/MuhammadHasan6/output/github-contribution-grid-snake-dark.svg"/>
+![Trophies](https://github-profile-trophy.vercel.app/?username=MuhammadHasan6&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)
 
 </div>
 
-<br>
-
 ---
 
-<br>
+## `> CONTRIBUTION_GRID/`
 
 <div align="center">
 
-### ◈ &nbsp; Contact
+<img src="https://raw.githubusercontent.com/MuhammadHasan6/MuhammadHasan6/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
 
-<br>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-060810?style=for-the-badge&logo=linkedin&logoColor=00b4ff)](https://linkedin.com/in/MuhammadHasan)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-060810?style=for-the-badge&logo=firefox&logoColor=00b4ff)](https://hasan-3456.github.io/Profile)&nbsp;
-[![Email](https://img.shields.io/badge/Gmail-060810?style=for-the-badge&logo=gmail&logoColor=00b4ff)](mailto:hsweb91@gmail.com)&nbsp;
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-060810?style=for-the-badge&logo=whatsapp&logoColor=00b4ff)](https://wa.me/923344073101)
+---
 
-<br><br>
+## `> COMMS_CHANNEL/`
 
-![Visitor Count](https://komarev.com/ghpvc/?username=MuhammadHasan6&color=00b4ff&style=flat-square&label=profile+views)
+```
+┌──────────────────────────────────────────────────────────────┐
+│  CHANNEL        HANDLE / ADDRESS              STATUS         │
+├──────────────────────────────────────────────────────────────┤
+│  LinkedIn       /in/MuhammadHasan             ● ACTIVE       │
+│  Portfolio      hasan-3456.github.io/Profile  ● LIVE         │
+│  Gmail          hsweb91@gmail.com             ● MONITORED    │
+│  WhatsApp       +92 334 407 3101              ● OPEN         │
+└──────────────────────────────────────────────────────────────┘
+```
 
-<br><br>
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=060810,0a1520&height=80&section=footer" width="100%"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=00ff88)](https://linkedin.com/in/MuhammadHasan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=00ff88)](https://hasan-3456.github.io/Profile)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=00ff88)](mailto:hsweb91@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-000000?style=flat-square&logo=whatsapp&logoColor=00ff88)](https://wa.me/923344073101)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+[ HXSN_OS · ALL SYSTEMS NOMINAL · © 2025 MUHAMMAD HASAN ]
+[ MISSION: FINANCIAL INDEPENDENCE · STATUS: IN PROGRESS  ]
+[ 9-TO-5 MODULE: DISABLED BY OPERATOR                    ]
+```
+
+![Visitor Count](https://komarev.com/ghpvc/?username=MuhammadHasan6&color=00ff88&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
