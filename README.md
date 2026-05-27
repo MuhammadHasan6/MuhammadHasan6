@@ -106,7 +106,7 @@ status      : OPEN TO PROJECTS & COLLABORATIONS
 
 <div align="center">
 
-<img src="https://media.tenor.com/bCfpwMjfAi0AAAAd/cat-typing.gif" width="250"/>
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="420"/>
 
 </div>
 
