@@ -103,17 +103,15 @@ status      : OPEN TO PROJECTS & COLLABORATIONS
 
 </div>
 
----
-
 ## `> TROPHIES/`
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=MuhammadHasan6&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)
+<img 
+src="https://github-profile-trophy.vercel.app/?username=MuhammadHasan6&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4"
+/>
 
 </div>
-
----
 
 ## `> CONTRIBUTION_GRID/`
 
