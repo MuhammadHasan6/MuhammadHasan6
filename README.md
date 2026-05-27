@@ -101,8 +101,6 @@ status      : OPEN TO PROJECTS & COLLABORATIONS
 
 <img height="160em" src="https://streak-stats.demolab.com?user=MuhammadHasan6&theme=chartreuse-dark&hide_border=true&background=000000&ring=00ff88&fire=00ff88&currStreakLabel=00ff88"/>
 
-<img height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MuhammadHasan6&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff88&text_color=00ff88"/>
-
 </div>
 
 ---
