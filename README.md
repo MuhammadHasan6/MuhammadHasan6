@@ -57,7 +57,7 @@ status      : OPEN TO PROJECTS & COLLABORATIONS
 |---|---------|-------------|------|
 | 🔌 | **[Rafay Power Solutions](https://rafay-power.com.pk)** | Full company website — dark theme, SEO optimized, GSAP animations. Solar & generator brand. | [↗ Live](https://rafay-power.com.pk) |
 | 🤖 | **ARIA — AI Agent** | Windows AI terminal. PyQt6 GUI · Ollama brain · Gmail API · Voice I/O · Browser automation | [↗ Repo](https://github.com/MuhammadHasan6) |
-| 📚 | **Library Management System** | OOP-based LMS with C++ HTTP backend and full web frontend UI | [↗ Repo]([https://github.com/MuhammadHasan6](https://github.com/MuhammadHasan6/Library-Management-System)) |
+| 📚 | **Library Management System** | OOP-based LMS with C++ HTTP backend and full web frontend UI | [↗ Repo](https://github.com/MuhammadHasan6/Library-Management-System) |
 | 📡 | **Moto GPS Tracker** | Arduino motorcycle security — SIM800L + NEO-6M real-time GPS tracking | [↗ Repo](https://github.com/MuhammadHasan6) |
 
 ---
