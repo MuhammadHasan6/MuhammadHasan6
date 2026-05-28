@@ -111,10 +111,12 @@ status      : OPEN TO PROJECTS & COLLABORATIONS
 </div>
 
 ## `> SNAKE/`
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MuhammadHasan6/MuhammadHasan6/main/assets/hasan-snake.svg">
-</div>
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/MuhammadHasan6/MuhammadHasan6/main/assets/hasan-snake.svg"
+    width="100%"
+  />
+</p>
 
 ---
 
