@@ -110,12 +110,10 @@ status      : OPEN TO PROJECTS & COLLABORATIONS
 
 </div>
 
-## `> CONTRIBUTION_GRID/`
+## `> SNAKE/`
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/MuhammadHasan6/MuhammadHasan6/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
-
+  <img src="./assets/hasan-snake.svg" alt="HASAN snake animation" />
 </div>
 
 ---
