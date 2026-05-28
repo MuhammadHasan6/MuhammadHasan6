@@ -113,7 +113,7 @@ status      : OPEN TO PROJECTS & COLLABORATIONS
 ## `> SNAKE/`
 
 <div align="center">
-  <img src="./assets/hasan-snake.svg" alt="HASAN snake animation" />
+  <img src="https://raw.githubusercontent.com/MuhammadHasan6/MuhammadHasan6/main/assets/hasan-snake.svg" alt="HASAN snake"/>
 </div>
 
 ---
