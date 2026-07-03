@@ -124,7 +124,7 @@ status      : OPEN TO PROJECTS & COLLABORATIONS
 │  CHANNEL        HANDLE / ADDRESS              STATUS         │
 ├──────────────────────────────────────────────────────────────┤
 │  LinkedIn       /in/MuhammadHasan             ● ACTIVE       │
-│  Portfolio      hasan-3456.github.io/Profile  ● LIVE         │
+│  Portfolio      Portfolio Website             ● LIVE         │
 │  Gmail          hsweb91@gmail.com             ● MONITORED    │       
 └──────────────────────────────────────────────────────────────┘
 ```
@@ -132,9 +132,8 @@ status      : OPEN TO PROJECTS & COLLABORATIONS
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=00ff88)](https://linkedin.com/in/MuhammadHasan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=00ff88)](https://hasan-3456.github.io/Profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=00ff88)](https://hasan-portfolio-ten-omega.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=00ff88)](mailto:hsweb91@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-000000?style=flat-square&logo=whatsapp&logoColor=00ff88)](https://wa.me/923344073101)
 
 </div>
 
