@@ -23,6 +23,13 @@
 
 ## `> IDENTITY_MATRIX.yaml`
 
+<table>
+<tr>
+<td width="330" valign="top">
+<img src="./ascii-face-side.svg" width="320"/>
+</td>
+<td valign="top">
+
 ```yaml
 operator    : Muhammad Hasan
 location    : Karachi, Pakistan 
@@ -37,6 +44,10 @@ currently_active:
 directive   : "Ship it. Improve it. Repeat."
 status      : OPEN TO PROJECTS & COLLABORATIONS
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 
